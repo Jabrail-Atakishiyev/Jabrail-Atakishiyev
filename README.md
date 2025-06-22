@@ -20,10 +20,6 @@
 
 📫 Contact:  
 - Email: cebrayil.atakishiyev@gmail.com
-
-- LinkedIn: https://www.linkedin.com/in/jabrail-atakishiyev-85883a350/
-
-- Email: cebrayil.atakishiyev@gmail.com
 - LinkedIn: [linkedin.com/in/JabrailAtakishiyev](https://www.linkedin.com/in/jabrail-atakishiyev-85883a350/)
 
 
