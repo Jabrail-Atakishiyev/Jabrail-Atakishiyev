@@ -18,7 +18,7 @@
 - Developing interactive tools using Streamlit
 
 📫 Contact:  
-- Email: cebrayil.atakishiyev@gmail.com
+- Email: [cebrayil.atakishiyev@gmail.com](mailto:cebrayil.atakishiyev@gmail.com)
 
 🔗 My Linkedin account:
 - [linkedin.com/in/JabrailAtakishiyev](https://www.linkedin.com/in/jabrail-atakishiyev-85883a350/)
