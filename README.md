@@ -7,7 +7,6 @@
 - SQL (Data analysis and querying)
 - Machine Learning (Scikit-learn, LightGBM, XGBoost)
 - Building interactive data applications with Streamlit
-- Full project workflow: Data Cleaning, Visualization, Feature Engineering, Modeling
 
 🌐 Currently, I continue my education through various online courses:
 - Platforms like Coursera, Kaggle, and Udemy help me deepen my skills
