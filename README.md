@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jabrail Atakishiyev
 
-🧠 I’m 19 years old and deeply passionate about Data Science. I’m constantly striving to grow and improve in this field.
+🧠 I’m 20 years old and deeply passionate about Data Science. I’m constantly striving to grow and improve in this field.
 
 🎓 I have successfully completed a 5-month Data Science training in LTC Lab. During this time, I gained hands-on experience with:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
