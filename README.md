@@ -8,7 +8,7 @@
 - Machine Learning (Scikit-learn, LightGBM, XGBoost)
 - Building interactive data applications with Streamlit
 
-🌐 Currently, I continue my education through various online courses:
+🌐 Currently, I continue my education through various online courses and Ironhack bootcamp program:
 - Platforms like Coursera, Kaggle, and Udemy help me deepen my skills
 
 🛠 What I’m focused on right now:
